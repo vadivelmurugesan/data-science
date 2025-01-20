@@ -32,4 +32,3 @@
 - Markdown cells are used to present text, images, etc.
 - Useful to document and explain the contents of the notebook.
 - Impements two process model with a kernel and a client.
-x
