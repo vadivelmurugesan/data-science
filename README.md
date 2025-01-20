@@ -5,6 +5,41 @@
 * The data scientists need to be curious, judgemental and argumentative.
 * Many algorithms are used to bring out insights from data. 
 
+## Methodologies
+
+A Methodology is a system of methods and a guideline to decision making during the scientific process.
+
+Data science methodology guides the datascientis in solving complex problems with data.
+
+### Data methodology stages
+
+* Business understanding
+    - What is the problem you are trying to solve?
+* Analytic Approach
+    - How can you use data to answer the question?
+        - If the question is to determine the probabilities of an action, then use a predictive model
+        - If the question is to show the relationships, then use a descriptive model
+        - If the question requires a yes or no answer, then use a classification model
+* Data Requirements
+* Data Collection
+    - Idenify and gather available data sources (These can be in the form of structured, unstructured, and even semi-structured data relevant to the problem domain.)
+* Data Understanding
+* Data Preparation
+* Modeling
+* Evaluation
+* Deployment
+* Feedback
+
+#### Analytic Approach
+
+**Based On Queuestions**
+
+1. Descriptive Questions: What is current status?
+2. Diagonistic Questions: Why did it happen?
+3. Predictive Questions: What likely to happen?
+4. Prescriptive Questions: What should we do?
+5. Classification Questions: What category does this belong to?
+
 ## Fundamental Libraries of Python for Data Science
 
 ### Pandas
