@@ -13,22 +13,40 @@ Data science methodology guides the datascientis in solving complex problems wit
 
 ### Data methodology stages
 
+Foundational methodology, a cyclical, iterative data science methodology developed by John Rollins, consists of 10 stages.
+
 * Business understanding
     - What is the problem you are trying to solve?
+    - Understand the business problem and determine the data needed to answer the core business question. 
 * Analytic Approach
     - How can you use data to answer the question?
         - If the question is to determine the probabilities of an action, then use a predictive model
         - If the question is to show the relationships, then use a descriptive model
         - If the question requires a yes or no answer, then use a classification model
 * Data Requirements
+    - Identify the correct and necessary data content, formats, and sources needed for the specific analytical approach.
 * Data Collection
     - Idenify and gather available data sources (These can be in the form of structured, unstructured, and even semi-structured data relevant to the problem domain.)
 * Data Understanding
+    - Focused on exploring and analyzing the collected data to ensure that the data is representative of the problem to be solved.
 * Data Preparation
+    - Where data is cleaned, transformed, and formatted for further analysis, including feature engineering and text analysis.
 * Modeling
 * Evaluation
 * Deployment
 * Feedback
+
+### CRISP - DM Methodology
+
+* CRISP - DM stands for cross industry standard process for data mining
+* CRISP-DM, an open source data methodology, combines several data-related methodology stages into one stage and omits the Feedback stage resulting in a six-stage data methodology.
+    1. Business Understanding
+    2. Data Understanding [Combination of Data Requirements, Collection and Understanding]
+    3. Data Preparation
+    4. Modeling
+    5. Evaluation
+    6. Deployment
+
 
 #### Analytic Approach
 
