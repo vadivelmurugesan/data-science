@@ -58,17 +58,6 @@ Foundational methodology, a cyclical, iterative data science methodology develop
 4. Prescriptive Questions: What should we do?
 5. Classification Questions: What category does this belong to?
 
-## Fundamental Libraries of Python for Data Science
-
-### Pandas
-
-Powerful for working with structured data, including data cleaning, manipulation, analysis, and visualization.
-
-### NumPy
-
-Essential for numerical computations and array manipulation.
-
-
 ## Descriptive Statistics
 
 Descriptive statistics are appropriately named, as they provide insights into the main features of our data.  
