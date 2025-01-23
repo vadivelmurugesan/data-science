@@ -14,6 +14,23 @@ Python is great for huge range of tasks
 
 and more...
 
+### Data Types
+
+* int - either negative or positive numbers
+
+* float - Numbers with decimals
+
+* str - String of Characters
+
+* bool - Boolean (True / False)
+
+### type(expression) Function
+
+type(1)    -> int
+type(1.1)  -> float
+type('h')  -> str
+type(True) -> bool
+
 
 ## Fundamental Libraries of Python for Data Science
 
