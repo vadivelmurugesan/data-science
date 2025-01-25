@@ -1,0 +1,6 @@
+# install the required packages using the following command pip install -r requirements.txt
+pandas
+numpy
+seaborn
+scipy
+matplotlib
