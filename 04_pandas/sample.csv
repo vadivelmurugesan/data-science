@@ -1,0 +1,6 @@
+PatientID,FirstName,LastName,DateOfBirth,Gender,ContactNumber,Email,Address,City,State,ZipCode,DateOfAdmission,Diagnosis
+1,John,Doe,1985-05-15,Male,555-1234,john.doe@example.com,123 Main St,Anytown,CA,12345,2023-01-10,Flu
+2,Jane,Smith,1990-08-22,Female,555-5678,jane.smith@example.com,456 Oak St,Anytown,CA,12345,2023-02-15,Broken Arm
+3,Emily,Jones,1975-11-30,Female,555-8765,emily.jones@example.com,789 Pine St,Anytown,CA,12345,2023-03-20,Diabetes
+4,Michael,Brown,1982-02-14,Male,555-4321,michael.brown@example.com,321 Maple St,Anytown,CA,12345,2023-04-25,Hypertension
+5,Jessica,Johnson,2000-07-07,Female,555-6789,jessica.johnson@example.com,654 Cedar St,Anytown,CA,12345,2023-05-30,Asthma
