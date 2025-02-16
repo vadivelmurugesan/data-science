@@ -5,3 +5,5 @@ seaborn
 scipy
 matplotlib
 yfinance
+kaggle
+kagglehub
