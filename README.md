@@ -1,4 +1,4 @@
-# Data Science ["Content making is in-progress]
+# Data Science
 ## Introduction
 
 * Data science is the study of large quantities of data, which can reveal insights that help organizations make strategic choices.
